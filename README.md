@@ -42,5 +42,15 @@ We can either use inbuilt functions in Numpy library to calculate dot product an
 
 
 **about of data set :)**
+![image](https://user-images.githubusercontent.com/89921883/224299236-ab11fe15-8006-4272-bd84-f0be24436061.png)
 
-in progress
+These are given by Wikipedia 
+
+On Mehsa Amini's Wikipedia page, first copy the first paragraph([text1](https://github.com/parvvaresh))
+translate it into Farsi using Google Translate, and then translate it again into English.([text2](https://github.com/parvvaresh))
+
+Intuitively, the two texts were different, and the percentage of similarity between the two texts was 71% (according to the algorithm).
+
+
+
+![image](https://user-images.githubusercontent.com/89921883/224300881-47e5768e-ce91-4368-b410-d5e0f6b18366.png)
